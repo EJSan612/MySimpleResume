@@ -1,0 +1,134 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    background: url(resources/teemu-paananen-OOE4xAnBhKo-unsplash.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.main-container{
+    background-color: transparent;
+}
+.form-group{
+    background-color: transparent;
+}
+.btn-goHome{
+    margin-left: 1608px;
+    font-size: 20px;
+}
+.btn-perinfo{
+    font-size: 20px;
+}
+.me-img{
+    height: auto;
+    width: 500px;
+    border-radius: 100px 30px;
+}
+.viewbutton{
+    margin-left: 300px;
+    margin-top: -450px;
+    
+}
+.btn-view-details{
+    font-size: 40px;
+    background-color: transparent;
+    border-color: transparent;
+    margin-top: -50px;
+    color: black;
+}
+.btn-view-details:hover{
+    color: red;
+}
+.myname{
+    margin-bottom: -40px;
+    color:black
+}
+.myimage{
+    margin-top: 20px;
+    font-size: 60px;
+    padding-bottom: 190px;
+    background-color: rgb(128, 128, 128, .50);
+    margin-left: 150px;
+    margin-right: 150px;
+    border-radius: 100px 30px;
+}
+.socials-container{
+    margin-left: 260px;
+}
+.intro-view{
+    margin-left: 270px;
+}
+
+.fb-social{
+}
+.insta-social{
+    margin-top: -93px;
+    margin-left: 120px;
+}
+.twitter-social{
+    margin-top: -93px;
+    margin-left: 240px;
+}
+.socials-logo{
+    margin-top: -10px;
+    margin-left: 250px;
+    height: auto;
+    width: 100px;
+}
+#f-socials{
+    color: black;
+    margin-left: 775px;
+}
+.navbarH{
+    text-decoration: none;
+    padding: 2%;
+    color: black;
+    border: 1px solid red;
+    border-radius: 20px;
+}
+.navbarH:hover
+{
+    background-color: red
+}
+.navbarPI{
+    color: black;
+    margin-left: 30px;
+    padding: 2%;
+    text-decoration: none;
+    border: 1px solid red;
+    border-radius: 20px;
+}
+.navbarPI:hover{
+    background-color: red;
+}
+.navigation-bar{
+    font-size: 30px;
+    padding-left: 1450px;
+    margin-top: 30px;
+}
+.hobby{
+    text-align: center;
+}
+.hobbyimages{
+    height: auto;
+    width: 300px;
+}
+.background-container{
+    margin-top: 20px;
+    background-color: rgb(128, 128, 128, .50);
+    margin-left: 350px;
+    margin-right: 350px;
+    border-radius: 100px 30px;
+}
+.quote{
+    text-align: center;
+    font-size: 50px;
+    font-style: italic;
+}
+.nameintro{
+    text-align: center;
+    font-size: 60px;
+}
+.background-school{
+    margin-left: 110px;
+}
